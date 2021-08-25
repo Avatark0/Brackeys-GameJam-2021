@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469681d7587bea64cb47b8c65a3687ca, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  experiencia: 2
+  nome: Slime
+  nivelBase: 1
+  mobilidade: 0
+  tamanho: 0
+  cores:
+    verde: 0
+    azul: 0
+    branco: 0
+    vermelho: 0
+    preto: 0
+  atributos:
+    forca: 0
+    destreza: 0
+    constituicao: 2
+    inteligencia: 0
+    sabedoria: 0
+    carisma: 0
+  grimorio:
+    bolaGelo:
+      pergaminhoObtido: 0
+      nivel: 0
+      magia:
+        name: 
+        manaCost: 0
+        castDelay: 0
+        passiveEffect: 0
+        active: 0
+    bolaFogo:
+      pergaminhoObtido: 0
+      nivel: 0
+      magia:
+        name: 
+        manaCost: 0
+        castDelay: 0
+        passiveEffect: 0
+        active: 0
+    cura:
+      pergaminhoObtido: 0
+      nivel: 0
+      magia:
+        name: 
+        manaCost: 0
+        castDelay: 0
+        passiveEffect: 0
+        active: 0
+    regeneracaoVida:
+      pergaminhoObtido: 0
+      nivel: 0
+      magia:
+        name: 
+        manaCost: 0
+        castDelay: 0
+        passiveEffect: 0
+        active: 0
+    empatiaAnimais:
+      pergaminhoObtido: 0
+      nivel: 0
+      magia:
+        name: 
+        manaCost: 0
+        castDelay: 0
+        passiveEffect: 0
+        active: 0
+    respirarAgua:
+      pergaminhoObtido: 0
+      nivel: 0
+      magia:
+        name: 
+        manaCost: 0
+        castDelay: 0
+        passiveEffect: 0
+        active: 0
+    levitar:
+      pergaminhoObtido: 0
+      nivel: 0
+      magia:
+        name: 
+        manaCost: 0
+        castDelay: 0
+        passiveEffect: 0
+        active: 0
+    furto:
+      pergaminhoObtido: 0
+      nivel: 0
+      magia:
+        name: 
+        manaCost: 0
+        castDelay: 0
+        passiveEffect: 0
+        active: 0
+    voar:
+      pergaminhoObtido: 0
+      nivel: 0
+      magia:
+        name: 
+        manaCost: 0
+        castDelay: 0
+        passiveEffect: 0
+        active: 0
+  equipamento:
+    pocaoCura:
+      itemObtido: 0
+      quantidade: 0
+      item:
+        name: 
+        categoria: 
+        preco: 0
+    espada:
+      itemObtido: 0
+      quantidade: 0
+      item:
+        name: 
+        categoria: 
+        preco: 0
+    arco:
+      itemObtido: 0
+      quantidade: 0
+      item:
+        name: 
+        categoria: 
+        preco: 0
+    cajado:
+      itemObtido: 0
+      quantidade: 0
+      item:
+        name: 
+        categoria: 
+        preco: 0
+    pergaminho:
+      itemObtido: 0
+      quantidade: 0
+      item:
+        name: 
+        categoria: 
+        preco: 0
+  moedas:
+    ouro: 0
+    prata: 0
+    cobre: 0
