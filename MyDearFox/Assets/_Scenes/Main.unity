@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 175065749}
   m_Layer: 0
   m_Name: Floor
-  m_TagString: Untagged
+  m_TagString: Chao
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10851,7 +10851,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1587243827}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.615, z: 0}
+  m_LocalPosition: {x: 0, y: 3.81, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 521742538}
@@ -10868,17 +10868,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1587243827}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ee6982f56b27a414c936dd2d622889ef, type: 3}
+  m_Script: {fileID: 11500000, guid: a63789baca7b1cb44be8b1ed224331d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   mass: 2
   speed: 6
-  maxFallSpeed: 5
   jumpSpeed: 1000
-  jumpBuffer: 0.2
-  jumpHoldTime: 0.3
-  hoverSpeed: 1
-  hoverBufferTime: 5
+  jumpBufferTime: 0.3
   rigbd: {fileID: 1587243832}
 --- !u!70 &1587243830
 CapsuleCollider2D:

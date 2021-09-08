@@ -4,6 +4,17 @@ using UnityEngine;
 
 public class Jogador : MonoBehaviour
 {
+    /*
+mass: 2
+speed: 6
+maxFallSpeed: 5
+jumpSpeed: 1000
+jumpBuffer: 0.2
+jumpHoldTime: 0.3
+hoverSpeed: 1
+hoverBufferTime: 5
+*/
+
     [SerializeField] private float mass = default;//2f
     [SerializeField] private float speed = default;
     [SerializeField] private float jumpSpeed = default;
